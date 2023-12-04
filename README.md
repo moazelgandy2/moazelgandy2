@@ -1,3 +1,4 @@
+```
 <?php
 $name = "\033[1;35mYour Name\033[0m"; // \033 is the escape character for ASCII codes
 $skills = [
@@ -10,3 +11,4 @@ $skills = [
 echo "👋 Hi there! I'm $name, a backend developer passionate about crafting robust solutions and delivering seamless user experiences.\n\n";
 echo "🚀 **Skills**:\n" . implode("\n", array_map(fn($skill) => "- $skill", $skills));
 ?>
+```
