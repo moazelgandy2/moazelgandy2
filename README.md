@@ -22,7 +22,6 @@ $skills = [
 
 // Print your name
 echo "👋 Hi there! I'm $name, a backend developer passionate about crafting robust solutions and delivering seamless user experiences.\n\n";
-```
 
 // Print your skills
 echo "🚀 **Skills**:\n";
@@ -30,3 +29,4 @@ foreach ($skills as $skill) {
     echo "- $skill\n";
 }
 ?>
+```
