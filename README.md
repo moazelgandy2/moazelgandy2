@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=moazelgandy2&icon=5&color=9)](https://visitcount.itsvg.in)
 
--👋 I’m Driven Back-end Developer | Creating Impactful Digital Solutions for Tomorrow's Challenges.<br>-🧠 I'm learning React | NodeJs.<br>-🌍 I'm based in Tanta, Egypt.<br>-📫 How to reach me: contact@moazelgandy.tech
+-👋 I’m Driven Web Developer | Creating Impactful Digital Solutions for Tomorrow's Challenges.<br>-🧠 I'm learning React | NodeJs.<br>-🌍 I'm based in Tanta, Egypt.<br>-📫 How to reach me: contact@moazelgandy.tech
 
 ## 🌐 Socials:
 
