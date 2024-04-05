@@ -37,6 +37,7 @@ contact@moazelgandy.tech
 <img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2c292d.svg?style=for-the-badge&logo=typescript&logoColor=ffffff">
 <img alt="Python" src="https://img.shields.io/badge/python-2c292d?style=for-the-badge&logo=python&logoColor=ffffff">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-2c292d?style=for-the-badge&logo=php&logoColor=ffffff">
 
