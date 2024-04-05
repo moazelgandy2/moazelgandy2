@@ -76,7 +76,9 @@ contact@moazelgandy.tech
 </p>
 <br>
 <h6 style="padding:20px;" align="left" >
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dar)
+<p align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dar)
+</p>
    <br>
 </h6>
