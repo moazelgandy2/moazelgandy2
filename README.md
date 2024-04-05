@@ -39,7 +39,6 @@ contact@moazelgandy.tech
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2c292d.svg?style=for-the-badge&logo=typescript&logoColor=ffffff">
 <img alt="Python" src="https://img.shields.io/badge/python-2c292d?style=for-the-badge&logo=python&logoColor=ffffff">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-2c292d?style=for-the-badge&logo=php&logoColor=ffffff">
 
 ##### Frameworks and Libraries
 
