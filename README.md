@@ -17,7 +17,7 @@ contact@moazelgandy.tech
 ----------------
 💻 I am a self taught FrontEnd Developer
 📝 I have a strong interest in Web Development
-🌱 Learning about Node js | MongoDB
+🌱 Learning about Node js | MongoDB | Go
 🌟 Main languages: JavaScript
 
 ```
