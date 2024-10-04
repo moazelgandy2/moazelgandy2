@@ -15,7 +15,7 @@ Hi, i'm Moaz El Gandy
 ```
 contact@moazelgandy.tech
 ----------------
-💻 I am a self taught FrontEnd Developer
+💻 I am a self taught Software Developer
 📝 I have a strong interest in Web Development
 🌱 Learning about Go
 🌟 Main languages: JavaScript
