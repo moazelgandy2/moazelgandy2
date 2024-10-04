@@ -4,7 +4,7 @@ Hi, i'm Moaz El Gandy
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Front-end+Developer;Student;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;Student;&center=true&width=380&height=45"></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=moazelgandy2&icon=5&color=9)](https://visitcount.itsvg.in)
