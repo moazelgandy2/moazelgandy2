@@ -29,34 +29,47 @@ contact@moazelgandy.tech
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moazelgandy2&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> My Skills</h2>
 
 ##### Programming Languages
 
 <p>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2c292d.svg?style=for-the-badge&logo=typescript&logoColor=ffffff">
-<img alt="Python" src="https://img.shields.io/badge/python-2c292d?style=for-the-badge&logo=python&logoColor=ffffff">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=ffffff">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffffff">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=ffffff">
+</p>
 
 ##### Frameworks and Libraries
 
 <p>
-    <img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff">
-    <img alt="Tailwind" src="https://img.shields.io/badge/tailwind css-2c292d?style=for-the-badge&logo=tailwindcss&logoColor=ffffff">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff">
+  <img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=ffffff">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=ffffff">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=ffffff">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=ffffff">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=ffffff">
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880E4F.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff">
 
 </p>
 
-##### Software and Tools
-<img alt="AWS" src="https://img.shields.io/badge/AWS-2c292d?style=for-the-badge&logo=amazon-aws&logoColor=ffffff">
-<img alt="Azure" src="https://img.shields.io/badge/Azure-2c292d?style=for-the-badge&logo=microsoftazure&logoColor=ffffff">
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-2c292d?style=for-the-badge&logo=github&logoColor=ffffff">
-
+##### Databases
 
 <p>
-    
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=ffffff">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=ffffff">
+</p>
+
+##### Software and Tools
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=ffffff">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=ffffff">
+  <img alt="Azure" src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=ffffff">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=000000">
 </p>
 
 ##### Workspace
