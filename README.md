@@ -17,7 +17,7 @@ contact@moazelgandy.tech
 ----------------
 💻 I am a self taught Software Developer
 📝 I have a strong interest in Web Development
-🌱 Learning about Go
+🌱 Learning about Go | Lua
 🌟 Main languages: JavaScript
 
 ```
