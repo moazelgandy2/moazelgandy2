@@ -29,6 +29,8 @@ contact@moazelgandy.tech
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moazelgandy2&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
+<figure><embed src="https://wakatime.com/share/@moazelgandy2/57feb35f-fadc-46ea-9ded-fda19987bc18.svg"></embed></figure>
+
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> My Skills</h2>
 
 ##### Programming Languages
