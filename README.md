@@ -13,7 +13,7 @@ Hi, i'm Moaz El Gandy
 <img src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" width="100%" />
 
 ```
-contact@moazelgandy.tech
+moazelgandy@icloud.com
 ----------------
 💻 I am a self taught Software Developer
 📝 I have a strong interest in Web Development
@@ -79,7 +79,7 @@ contact@moazelgandy.tech
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80">Contact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/moazelgandy2"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="mailto:contact@moazelgandy.tech?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+   <a href="mailto:moazelgandy@icloud.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 </p>
 <br>
 <br>
