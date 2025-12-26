@@ -15,7 +15,7 @@ Hi, i'm Moaz El Gandy
 ```
 moazelgandy@icloud.com
 ----------------
-💻 I am a self taught Software Developer
+💻 Software Engineer | Computer Science Student @ Tanta University
 📝 I have a strong interest in Web Development
 🌱 Learning about Go | Lua
 🌟 Main languages: JavaScript
