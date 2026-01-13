@@ -35,4 +35,7 @@
 ---
 
 ## 📊 Technical Activity
-<figure><embed src="https://wakatime.com/share/@moazelgandy2/f247315c-5c7f-466b-a0ed-525235c8b842.svg"></embed></figure>
+
+<p align="left">
+  <img src="https://wakatime.com/share/@moazelgandy2/8de696a2-2f88-49a8-8971-e70b2dece4c3.svg" alt="WakaTime Stats" />
+</p>
