@@ -13,7 +13,7 @@
 
 | Project | Role | Technical Complexity |
 | :--- | :--- | :--- |
-| **[Droplo](https://github.com/moazelgandy2/droplo-core)** | **Architect** | **Custom PaaS Engine.** A reverse-engineered Vercel clone capable of containerizing Next.js apps on demand using Docker sockets, Hono streams, and Linux namespaces. |
+| **[Droplo](https://github.com/moazelgandy2/droplo-core)** | **Core Developer** | **Custom PaaS Engine.** A reverse-engineered Vercel clone capable of containerizing Next.js apps on demand using Docker sockets, Hono streams, and Linux namespaces. |
 | **Kashkool** | **Lead Engineer** | **Multi-Tenant SaaS.** An educational platform featuring dynamic RBAC (Row Level Security), sub-domain isolation via middleware, and real-time state synchronization via Convex. |
 | **Golden Waste** | **Frontend Lead** | **Enterprise Logistics.** A live logistics platform managing complex asset lifecycles. Implemented state machines for asset tracking and role-based views (Admin/Driver/Operator). |
 
