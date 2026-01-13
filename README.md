@@ -1,10 +1,11 @@
 # Moaz El Gandy
 
-> **Full Stack Engineer & Systems Architect**
+> **Software Engineer**
 >
-> Focused on high-performance SaaS infrastructure, reverse-engineering PaaS architectures, and building multi-tenant distributed systems.
+> Full Stack Developer focused on building high-performance SaaS applications, cloud infrastructure, and distributed systems.
 >
 > [Portfolio](https://moazelgandy-portfolio.vercel.app) • [LinkedIn](https://www.linkedin.com/in/moazelgandy2) • [Email](mailto:moazelgandy@icloud.com)
+>
 
 ---
 
