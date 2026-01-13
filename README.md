@@ -34,6 +34,5 @@
 
 ---
 
-## 📊 Activity
-
-![Moaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moazelgandy2&theme=transparent&hide_border=true&show_icons=true&count_private=true&text_color=b3b3b3&title_color=ffffff&icon_color=336791)
+## 📊 Technical Activity
+<figure><embed src="https://wakatime.com/share/@moazelgandy2/f247315c-5c7f-466b-a0ed-525235c8b842.svg"></embed></figure>
