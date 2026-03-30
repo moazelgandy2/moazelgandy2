@@ -4,7 +4,7 @@
 >
 > Full Stack Engineer focused on building high-performance SaaS applications, cloud infrastructure, and distributed systems.
 >
-> [Portfolio](https://moazelgandy-portfolio.vercel.app) • [LinkedIn](https://www.linkedin.com/in/moazelgandy2) • [Email](mailto:moazelgandy@icloud.com)
+> [LinkedIn](https://www.linkedin.com/in/moazelgandy2) • [Email](mailto:moazelgandy@icloud.com)
 >
 
 ---
